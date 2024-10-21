@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'realmegt6_china_RMX3800'
+        default: 'omni_ossi'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
