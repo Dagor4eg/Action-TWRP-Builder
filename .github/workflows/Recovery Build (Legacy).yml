@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-12.1'
+        default: 'pineapple-user-14-UKQ1.231108.001-1723821322681-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
