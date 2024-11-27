@@ -25,9 +25,9 @@ on:
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: true
-        default: 'https://github.com/snowwolf725/device_oneplus_sm86xx-common-TWRP'
+        default: 'https://github.com/Dagor4eg/device_oneplus_sm86xx-common-TWRP'
       COMMON_PATH:
-         required: yes
+        required: true
         default: 'device/oneplus/sm86xx-common'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_waffle'
+        default: 'twrp_rmx3800'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
