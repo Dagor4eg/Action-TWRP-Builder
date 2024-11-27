@@ -1,4 +1,4 @@
-name: Recovery Build
+name: RB
 
 on:
   workflow_dispatch:
